@@ -47,7 +47,7 @@
 
 ```bash
 git clone <repository-url>
-cd ai-powered-code-reviewer
+cd codechecker
 ```
 
 ### Backend Setup
